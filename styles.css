@@ -1,0 +1,56 @@
+span{
+    font-weight: bold;
+  }/* add your CSS here */
+
+ul{
+  list-style-type: none;
+  padding-inline-start: 0px;
+}
+
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 0.5em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+body {
+    background-color: gainsboro;
+}
+
+.funfact {
+    font-style: italic;
+}
+.supercontainer{
+    background-color: white;
+    padding: 0.5em;
+    height: 100%;
+    width: 335px;
+    lign-self: center;
+    vertical-align: middle;
+}
+
+.container{
+        width: 302.5px;
+        height: 98%;
+        border: 1px solid gainsboro;
+        margin: 0.25em;
+        padding: 0.5em;
+        margin-bottom: 0.7em;
+        display: flex;
+        flex-wrap: wrap;
+        box-shadow: 7px 7px 2px gainsboro;
+        background-color: white;
+        align-self: center;
+      }
+
+.box{
+        width: 282px;
+        height: 100%;
+        border: 1px solid gainsboro;
+        padding: 0.5em;
+        margin-top: 1em;
+      }
